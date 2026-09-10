@@ -3,8 +3,6 @@
   <img src="assets/hero.svg" width="100%" alt="Farhan Abid Ahmed. AI Engineer at Gakk Media, Dhaka. Systems that turn a sentence into something real.">
 </picture>
 
-<br/>
-
 <p align="center">
   <a href="https://www.linkedin.com/in/farhan-abid-ahmed/"><img src="https://img.shields.io/badge/LinkedIn-271F4D?style=for-the-badge&logo=linkedin&logoColor=4DD0E1" alt="LinkedIn"/></a>&nbsp;
   <a href="mailto:f.dipto5@gmail.com"><img src="https://img.shields.io/badge/Email-271F4D?style=for-the-badge&logo=gmail&logoColor=4DD0E1" alt="Email"/></a>
