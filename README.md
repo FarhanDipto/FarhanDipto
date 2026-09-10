@@ -9,7 +9,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1100&color=C9B8FF&center=true&vCenter=true&width=760&height=36&lines=AI+Engineer+%40+Gakk+Media+(BD)+Limited;Building+OneAI%2C+a+self-hosted+multi-LLM+hub;Turning+prompts+into+.pptx+and+.xlsx+files;Federated+learning+and+privacy-preserving+AI;OCR+that+reads+Bengali%2C+Arabic%2C+Devanagari%2C+CJK+and+Latin" alt="Typing SVG"/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=17&duration=3200&pause=1100&color=C9B8FF&center=true&vCenter=true&width=760&height=36&lines=AI+Engineer+%40+Gakk+Media+(BD)+Limited;Building+OneAI%2C+a+self-hosted+multi-LLM+hub;Turning+prompts+into+magic;Federated+learning+and+privacy-preserving+AI;OCR+that+reads+Bengali%2C+Arabic%2C+Devanagari%2C+CJK+and+Latin" alt="Typing SVG"/>
 </p>
 
 <br/>
