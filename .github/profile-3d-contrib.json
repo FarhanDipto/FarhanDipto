@@ -1,0 +1,17 @@
+{
+  "type": "normal",
+  "fileName": "profile-nebula.svg",
+  "backgroundColor": "#0B0E23",
+  "foregroundColor": "#E8E8F0",
+  "strongColor": "#4DD0E1",
+  "weakColor": "#8E8EAB",
+  "radarColor": "#9B5DE5",
+  "growingAnimation": true,
+  "contribColors": [
+    "#1C2046",
+    "#3B2F78",
+    "#6A48BF",
+    "#9B5DE5",
+    "#4DD0E1"
+  ]
+}
